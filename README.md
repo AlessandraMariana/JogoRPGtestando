@@ -1,1 +1,2 @@
-# JogoRPGtestando
+# JogoRPG
+Utilização de POO
